@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5abf7bee.css",
+    "main.js": "/static/js/main.1276507e.js",
+    "static/js/787.c3ce5a4b.chunk.js": "/static/js/787.c3ce5a4b.chunk.js",
+    "static/media/LogoMio.png": "/static/media/LogoMio.f8c3fd05d164e7711a31.png",
+    "index.html": "/index.html",
+    "main.5abf7bee.css.map": "/static/css/main.5abf7bee.css.map",
+    "main.1276507e.js.map": "/static/js/main.1276507e.js.map",
+    "787.c3ce5a4b.chunk.js.map": "/static/js/787.c3ce5a4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5abf7bee.css",
+    "static/js/main.1276507e.js"
+  ]
+}
