@@ -29,7 +29,7 @@ A web application for managing a library, developed as a university project usin
         <li><strong>CSS/Bootstrap:</strong> For styling and responsive design.</li>
     </ul>
 
-    <h3 style="font-size: 24px;">Backend</h3>
+<h3 style="font-size: 24px;">Backend</h3>
     <ul style="font-size: 18px;">
         <li><strong>Node.js</strong> with <strong>Express.js:</strong> For building RESTful APIs.</li>
         <li><strong>MongoDB:</strong> As the database for storing library and user data.</li>
