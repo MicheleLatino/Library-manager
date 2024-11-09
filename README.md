@@ -1,8 +1,8 @@
-# <h1> Ligg </h1>
+# <h1> <title>Ligg</title> </h1>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Library Management System</title>
+    <title> a Library Management System</title>
 </head>
 <body>
     <h1 style="font-size: 36px;">Library Management System</h1>
