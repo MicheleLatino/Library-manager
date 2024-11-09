@@ -6,13 +6,19 @@
 A web application for managing a library, developed as a university project using <b>React</b> for the frontend and <b>Node.js</b> for the backend. The application uses <b>MongoDB</b> as the database for managing data.
 
 <h2 style="font-size: 28px;">Main Features</h2>
+    <h3 style="font-size: 24px;">User</h3>
     <ul style="font-size: 18px;">
-        <li><strong>Book Management:</strong> Add, edit, delete, and view books.</li>
-        <li><strong>User Management:</strong> User registration, login, and profile updates.</li>
-        <li><strong>Book Lending System:</strong> Assign books to users and track their returns.</li>
-        <li><strong>Search Functionality:</strong> Advanced search by title, author, or genre.</li>
-        <li><strong>Dynamic User Interface:</strong> Built with React for a seamless and interactive experience.</li>
-        <li><strong>RESTful API:</strong> Developed with Node.js and connected to MongoDB.</li>
+        <li><strong>Search Books:</strong> Users can search for books by genre.</li>
+        <li><strong>Request Books:</strong> Users can request to borrow books.</li>
+        <li><strong>View Borrowed Books:</strong> Users can see the books they have been approved to borrow.</li>
+    </ul>
+
+<h3 style="font-size: 24px;">Administrator</h3>
+    <ul style="font-size: 18px;">
+        <li><strong>Manage Books:</strong> Add new books to the catalog.</li>
+        <li><strong>Approve or Reject Requests:</strong> Accept or deny user borrowing requests.</li>
+        <li><strong>Track Borrowed Books:</strong> View which books are currently borrowed.</li>
+        <li><strong>User Loan History:</strong> Search by user ID to see how many books they currently have borrowed.</li>
     </ul>
 
 <h2 style="font-size: 28px;">Technologies Used</h2>
