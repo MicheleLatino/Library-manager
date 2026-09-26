@@ -5,7 +5,7 @@
 
 A web application for managing a library, developed as a university project using <b>React</b> for the frontend and <b>Node.js</b> for the backend. The application uses <b>MongoDB</b> as the database for managing data.
 
-<video src="./Ligg-projectDemo.mp4" controls width="100%" max-width="600"></video>
+<video src="[./Ligg-projectDemo.mp4](https://github.com/user-attachments/assets/82847086-5561-4a17-bf3e-ab504d671538)" controls width="100%" max-width="600"></video>
 
 <h2 style="font-size: 28px;">Main Features</h2>
     <h3 style="font-size: 24px;">User</h3>
